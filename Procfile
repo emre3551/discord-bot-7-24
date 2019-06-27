@@ -1,1 +1,1 @@
-worker node installSVC.js
+worker node app.js
