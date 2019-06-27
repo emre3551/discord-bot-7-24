@@ -123,4 +123,4 @@ client.on('error', function (error) {
   if (debug) console.log(error);
 });
 
-client.login(process.env.token || config.token);
+client.login(process.env.BOT_TOKEN || config.token);
